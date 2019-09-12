@@ -1,0 +1,46 @@
+
+body{
+	background: #141d3d;
+}
+
+#upperBlock{
+	text-align: center;
+	padding: 20px;
+	color: #1199d4;
+	background: #3f444d;
+	margin-top: 30px;
+	border-radius: 10px;
+}
+
+#bottomBlock{
+	color: #1199d4;
+	background: #3f444d;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+}
+
+table{
+	border-spacing: 10px;
+	border-collapse: separate; 
+}
+
+
+#heading{
+	color: #1199d4;
+}
+
+table tr td button{
+	height:80px;
+	width:80px;
+	border-radius: 50%;
+	border:2px solid #1199d4;
+	background-color: white;
+	border-collapse: collapse;
+}
+
+table tr td button:hover{
+	background-color: gray;
+}
